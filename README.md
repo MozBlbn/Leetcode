@@ -4,5 +4,5 @@ This repository contains my solutions to LeetCode problems.
 
 Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 
-made by [Mahmoud Hamdy]("") - [Husam Ahmed]("")
+made by [Mahmoud Hamdy]("https://github.com/TutTrue") - [Husam]("https://github.com/husamahmud")
 
